@@ -2,7 +2,7 @@
 title: "PA1_template"
 author: "sxm5808"
 date: "January 23, 2016"
-output: html_document
+output:  md_document
 ---
 
 ## **Coursera Course : Reproducable Research- Project 1.**
